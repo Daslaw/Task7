@@ -1,0 +1,16 @@
+C:\Users\User\DotNet WellaProject\assignment7\obj\Debug\net5.0\assignment7.csproj.AssemblyReference.cache
+C:\Users\User\DotNet WellaProject\assignment7\obj\Debug\net5.0\assignment7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\DotNet WellaProject\assignment7\obj\Debug\net5.0\assignment7.AssemblyInfoInputs.cache
+C:\Users\User\DotNet WellaProject\assignment7\obj\Debug\net5.0\assignment7.AssemblyInfo.cs
+C:\Users\User\DotNet WellaProject\assignment7\obj\Debug\net5.0\assignment7.csproj.CoreCompileInputs.cache
+C:\Users\User\DotNet WellaProject\assignment7\bin\Debug\net5.0\assignment7.exe
+C:\Users\User\DotNet WellaProject\assignment7\bin\Debug\net5.0\assignment7.deps.json
+C:\Users\User\DotNet WellaProject\assignment7\bin\Debug\net5.0\assignment7.runtimeconfig.json
+C:\Users\User\DotNet WellaProject\assignment7\bin\Debug\net5.0\assignment7.runtimeconfig.dev.json
+C:\Users\User\DotNet WellaProject\assignment7\bin\Debug\net5.0\assignment7.dll
+C:\Users\User\DotNet WellaProject\assignment7\bin\Debug\net5.0\ref\assignment7.dll
+C:\Users\User\DotNet WellaProject\assignment7\bin\Debug\net5.0\assignment7.pdb
+C:\Users\User\DotNet WellaProject\assignment7\obj\Debug\net5.0\assignment7.dll
+C:\Users\User\DotNet WellaProject\assignment7\obj\Debug\net5.0\ref\assignment7.dll
+C:\Users\User\DotNet WellaProject\assignment7\obj\Debug\net5.0\assignment7.pdb
+C:\Users\User\DotNet WellaProject\assignment7\obj\Debug\net5.0\assignment7.genruntimeconfig.cache
